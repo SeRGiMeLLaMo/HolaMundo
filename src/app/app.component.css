@@ -1,0 +1,8 @@
+.estilo_b{
+    background: linear-gradient(180deg, #FD5865 0%, #7DACFB 100%);
+    border-style: hidden;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: aliceblue;
+}
